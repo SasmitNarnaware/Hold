@@ -1,0 +1,7 @@
+expo.modules.holdnative.expo-hold-native-pngs-0 D:\HOLD prototype\hold-app\modules\expo-hold-native\android\build\generated\res\pngs\release
+expo.modules.holdnative.expo-hold-native-resValues-1 D:\HOLD prototype\hold-app\modules\expo-hold-native\android\build\generated\res\resValues\release
+expo.modules.holdnative.expo-hold-native-mergeReleaseResources-2 D:\HOLD prototype\hold-app\modules\expo-hold-native\android\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+expo.modules.holdnative.expo-hold-native-mergeReleaseResources-3 D:\HOLD prototype\hold-app\modules\expo-hold-native\android\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+expo.modules.holdnative.expo-hold-native-release-4 D:\HOLD prototype\hold-app\modules\expo-hold-native\android\build\intermediates\merged_res\release\mergeReleaseResources
+expo.modules.holdnative.expo-hold-native-main-5 D:\HOLD prototype\hold-app\modules\expo-hold-native\android\src\main\res
+expo.modules.holdnative.expo-hold-native-release-6 D:\HOLD prototype\hold-app\modules\expo-hold-native\android\src\release\res

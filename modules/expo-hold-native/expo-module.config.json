@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoHoldNativeModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.holdnative.ExpoHoldNativeModule"]
+  }
+}
