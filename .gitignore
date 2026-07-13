@@ -39,3 +39,19 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# AI Context
+.claude/
+
+# Scripts
+generate_screens.js
+
+# Env files
+.env
+
+# Documentation
+design.md
